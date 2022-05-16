@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="hellocucumber.RunCucumberTest" time="0.434" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="14"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\Administrador\Downloads\pruebaCu\hellocucumber\target\test-classes;C:\Users\Administrador\Downloads\pruebaCu\hellocucumber\target\classes;C:\Users\Administrador\.m2\repository\io\cucumber\cucumber-java\7.0.0\cucumber-java-7.0.0.jar;C:\Users\Administrador\.m2\repository\io\cucumber\cucumber-core\7.0.0\cucumber-core-7.0.0.jar;C:\Users\Administrador\.m2\repository\io\cucumber\cucumber-gherkin\7.0.0\cucumber-gherkin-7.0.0.jar;C:\Users\Administrador\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.0.0\cucumber-gherkin-messages-7.0.0.jar;C:\Users\Administrador\.m2\repository\io\cucumber\messages\17.1.1\messages-17.1.1.jar;C:\Users\Administrador\.m2\repository\io\cucumber\tag-expressions\4.0.2\tag-expressions-4.0.2.jar;C:\Users\Administrador\.m2\repository\io\cucumber\cucumber-expressions\13.0.1\cucumber-expressions-13.0.1.jar;C:\Users\Administrador\.m2\repository\io\cucumber\datatable\7.0.0\datatable-7.0.0.jar;C:\Users\Administrador\.m2\repository\io\cucumber\cucumber-plugin\7.0.0\cucumber-plugin-7.0.0.jar;C:\Users\Administrador\.m2\repository\io\cucumber\docstring\7.0.0\docstring-7.0.0.jar;C:\Users\Administrador\.m2\repository\io\cucumber\html-formatter\17.0.0\html-formatter-17.0.0.jar;C:\Users\Administrador\.m2\repository\io\cucumber\create-meta\6.0.1\create-meta-6.0.1.jar;C:\Users\Administrador\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Administrador\.m2\repository\io\cucumber\cucumber-junit-platform-engine\7.0.0\cucumber-junit-platform-engine-7.0.0.jar;C:\Users\Administrador\.m2\repository\org\junit\platform\junit-platform-engine\1.8.1\junit-platform-engine-1.8.1.jar;C:\Users\Administrador\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Administrador\.m2\repository\org\junit\platform\junit-platform-commons\1.8.1\junit-platform-commons-1.8.1.jar;C:\Users\Administrador\.m2\repository\org\junit\platform\junit-platform-suite\1.8.1\junit-platform-suite-1.8.1.jar;C:\Users\Administrador\.m2\repository\org\junit\platform\junit-platform-suite-api\1.8.1\junit-platform-suite-api-1.8.1.jar;C:\Users\Administrador\.m2\repository\org\junit\platform\junit-platform-suite-engine\1.8.1\junit-platform-suite-engine-1.8.1.jar;C:\Users\Administrador\.m2\repository\org\junit\platform\junit-platform-suite-commons\1.8.1\junit-platform-suite-commons-1.8.1.jar;C:\Users\Administrador\.m2\repository\org\junit\platform\junit-platform-launcher\1.8.1\junit-platform-launcher-1.8.1.jar;C:\Users\Administrador\.m2\repository\org\junit\jupiter\junit-jupiter\5.8.1\junit-jupiter-5.8.1.jar;C:\Users\Administrador\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.1\junit-jupiter-api-5.8.1.jar;C:\Users\Administrador\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.8.1\junit-jupiter-params-5.8.1.jar;C:\Users\Administrador\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.1\junit-jupiter-engine-5.8.1.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Madrid"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="14"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="ES"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-14.0.2\bin"/>
+    <property name="sun.java.command" value="C:\Users\Administrador\AppData\Local\Temp\surefire12423581543159885642\surefirebooter1428149475113375810.jar C:\Users\Administrador\AppData\Local\Temp\surefire12423581543159885642 2022-05-16T18-03-54_388-jvmRun1 surefire2784894485084921060tmp surefire_011250736354615206598tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\Administrador\Downloads\pruebaCu\hellocucumber\target\test-classes;C:\Users\Administrador\Downloads\pruebaCu\hellocucumber\target\classes;C:\Users\Administrador\.m2\repository\io\cucumber\cucumber-java\7.0.0\cucumber-java-7.0.0.jar;C:\Users\Administrador\.m2\repository\io\cucumber\cucumber-core\7.0.0\cucumber-core-7.0.0.jar;C:\Users\Administrador\.m2\repository\io\cucumber\cucumber-gherkin\7.0.0\cucumber-gherkin-7.0.0.jar;C:\Users\Administrador\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.0.0\cucumber-gherkin-messages-7.0.0.jar;C:\Users\Administrador\.m2\repository\io\cucumber\messages\17.1.1\messages-17.1.1.jar;C:\Users\Administrador\.m2\repository\io\cucumber\tag-expressions\4.0.2\tag-expressions-4.0.2.jar;C:\Users\Administrador\.m2\repository\io\cucumber\cucumber-expressions\13.0.1\cucumber-expressions-13.0.1.jar;C:\Users\Administrador\.m2\repository\io\cucumber\datatable\7.0.0\datatable-7.0.0.jar;C:\Users\Administrador\.m2\repository\io\cucumber\cucumber-plugin\7.0.0\cucumber-plugin-7.0.0.jar;C:\Users\Administrador\.m2\repository\io\cucumber\docstring\7.0.0\docstring-7.0.0.jar;C:\Users\Administrador\.m2\repository\io\cucumber\html-formatter\17.0.0\html-formatter-17.0.0.jar;C:\Users\Administrador\.m2\repository\io\cucumber\create-meta\6.0.1\create-meta-6.0.1.jar;C:\Users\Administrador\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Administrador\.m2\repository\io\cucumber\cucumber-junit-platform-engine\7.0.0\cucumber-junit-platform-engine-7.0.0.jar;C:\Users\Administrador\.m2\repository\org\junit\platform\junit-platform-engine\1.8.1\junit-platform-engine-1.8.1.jar;C:\Users\Administrador\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Administrador\.m2\repository\org\junit\platform\junit-platform-commons\1.8.1\junit-platform-commons-1.8.1.jar;C:\Users\Administrador\.m2\repository\org\junit\platform\junit-platform-suite\1.8.1\junit-platform-suite-1.8.1.jar;C:\Users\Administrador\.m2\repository\org\junit\platform\junit-platform-suite-api\1.8.1\junit-platform-suite-api-1.8.1.jar;C:\Users\Administrador\.m2\repository\org\junit\platform\junit-platform-suite-engine\1.8.1\junit-platform-suite-engine-1.8.1.jar;C:\Users\Administrador\.m2\repository\org\junit\platform\junit-platform-suite-commons\1.8.1\junit-platform-suite-commons-1.8.1.jar;C:\Users\Administrador\.m2\repository\org\junit\platform\junit-platform-launcher\1.8.1\junit-platform-launcher-1.8.1.jar;C:\Users\Administrador\.m2\repository\org\junit\jupiter\junit-jupiter\5.8.1\junit-jupiter-5.8.1.jar;C:\Users\Administrador\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.1\junit-jupiter-api-5.8.1.jar;C:\Users\Administrador\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.8.1\junit-jupiter-params-5.8.1.jar;C:\Users\Administrador\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.1\junit-jupiter-engine-5.8.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Administrador"/>
+    <property name="user.language" value="es"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2020-07-14"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-14.0.2"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\Administrador\Downloads\pruebaCu\hellocucumber"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Administrador\AppData\Local\Temp\surefire12423581543159885642\surefirebooter1428149475113375810.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="14.0.2+12-46"/>
+    <property name="user.name" value="Administrador"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Administrador\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\ADMINI~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="14.0.2"/>
+    <property name="user.dir" value="C:\Users\Administrador\Downloads\pruebaCu\hellocucumber"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-14.0.2\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\AutoFirma\AutoFirma;C:\Program Files (x86)\BaseX\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\nodejs\;C:\Program Files\apache-maven-3.8.5\bin;C:\ProgramData\chocolatey\bin;C:\Users\Administrador\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-14.0.2\bin;C:\Users\Administrador\AppData\Roaming\npm;C:\Users\Administrador\AppData\Local\atom\bin;C:\Users\Administrador\AppData\Local\Programs\Rancher Desktop\resources\resources\win32\bin;C:\Users\Administrador\AppData\Local\Programs\Rancher Desktop\resources\resources\linux\bin;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="14.0.2+12-46"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="58.0"/>
+  </properties>
+  <testcase name="Escenario 1" classname="Is it Friday yet?" time="0.163">
+    <system-out><![CDATA[
+@tag @tag1
+Scenario: Escenario 1    &amp#27;[90m# hellocucumber/is_it_friday_yet.feature:24&amp#27;[0m
+  &amp#27;[32mGiven &amp#27;[0m&amp#27;[32mTOday is Sunday&amp#27;[0m  &amp#27;[90m# hellocucumber.StepDefinitions.t_oday_is_sunday()&amp#27;[0m
+  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32mI ask&amp#27;[0m             &amp#27;[90m# hellocucumber.StepDefinitions.i_ask()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mtold not &amp#27;[0m&amp#27;[32m&amp#27;[1m"Friday"&amp#27;[0m &amp#27;[90m# hellocucumber.StepDefinitions.told_not(java.lang.String)&amp#27;[0m
+]]></system-out>
+  </testcase>
+</testsuite>
